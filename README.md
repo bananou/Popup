@@ -27,8 +27,9 @@ You need a web browser to run the project. No additional installations are requi
      ```bash
    git clone https://github.com/bananou/modal-popup-website.git
 2. **Navigate to the project directory**:
+     ```bash
    cd modal-popup-website
-3. **Open the index.html file in your web browser to view and interact with the modal box.**
+4. **Open the index.html file in your web browser to view and interact with the modal box.**
    
  
 
